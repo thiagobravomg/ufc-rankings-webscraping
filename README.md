@@ -1,7 +1,7 @@
 # ufc-rankings-webscraping
 <h3>Webscraping básico de rankings do UFC com Scrapy.</h3>
 
-<p>*o objetivo do projeto demonstrar a implementação básica de webscraping com Scrapy. Leia a documentação para ententer mais detalhes.</p>
+<p>*o objetivo do projeto é demonstrar a implementação básica de webscraping com Scrapy. Leia a documentação para ententer mais detalhes.</p>
 
 <h3> Aqui você vai encontrar: </h3>
 <ul>
